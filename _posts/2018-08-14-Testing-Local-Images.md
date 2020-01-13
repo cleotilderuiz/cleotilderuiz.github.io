@@ -24,13 +24,13 @@ MAT Turnstile data is available [here](http://web.mta.info/developers/turnstile.
 
 Once the data is cleaned then we began to look at the top stations.
 
-![](images/Top5Stations.JPG)
+![](images/Top5Stations.jpg)
 
 Although these stations are the top 5 they do not tell the entire story. We know that those stations are in downtown and not encompassing the entire city.
 
-![](images/Top5NYC.JPG)
+![](images/Top5NYC.jpg)
 
 ## Recommendations
 However if we base our methodology to include top stations by regions then Women Tech Women Yes should take the approach of targetting the stations below.
 
-![](images/HotSpots.JPG)
+![](images/HotSpots.jpg)
