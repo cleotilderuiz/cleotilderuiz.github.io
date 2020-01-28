@@ -73,7 +73,7 @@ In comparison analayzing many variables like the image below.
 However I wanted to create this model with more variables, because intuitively it seems like an impact to delay time can be caused by many factors.
 
 The values for r squared and mean absolute error made sense with the data. 
-![](images/Valuesjpg)
+![](images/Values.jpg)
 
 The delay times for my subset of data analyzed had average times of betwen 30 minutes to an hour.
 
@@ -86,4 +86,3 @@ The delay times for my subset of data analyzed had average times of betwen 30 mi
 Further exploration of predictive models to better improve our delay time predictions. 
 
 
-====
